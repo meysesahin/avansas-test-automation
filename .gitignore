@@ -1,0 +1,12 @@
+target/
+build/
+.gradle/
+.gauge/
+reports/
+out/
+logs/
+gauge_bin/
+libs/
+.idea
+*.iml
+*.log
